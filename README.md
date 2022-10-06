@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dizlex a PhD candidate at KU
+- 👋 Hi, I’m Alejandro a PhD candidate at KU
 - 👀 I’m interested in seismic data processing
 - 🌱 I’m currently learning wavelet analysis
 - 💞️ I’m looking to collaborate on minimal shear-wave amplitude data processing 
