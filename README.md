@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alejandro an MSc geophysics graduate from KU (khalifa university)
+- 👋 Hi, I’m Alejandro Geophysics graduate from KU (khalifa university)
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning data science at LeWagon mexico.
-- 💞️ (For nerds) I’m looking to for literature and collaboration on minimal shear-wave amplitude data processing.
+- 🌱 I’m currently doing consulting for a tech company
+- 💞️ (For nerds) I am interested in minimal amplitude shear-wave processing
 - 📫 How to reach me alex.9.diaz.uae@gmail.com
 
 <!---
