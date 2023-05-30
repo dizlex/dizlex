@@ -3,6 +3,7 @@
 - 🌱 I’m currently doing consulting for a tech company (Appian)
 - 💞️ (For nerds) I am interested in minimal amplitude shear-wave processing and time series analysis.
 - 📫 How to reach me alex.9.diaz.uae@gmail.com
+- Checkout my research paper: https://www.yandy-ager.com/index.php/ager/article/view/642
 
 <!---
 dizlex/dizlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
