@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex a Geophysics graduate from KU (khalifa university)
 - 👀 I’m interested in data science.
 - 🌱 I’m currently doing consulting for a tech company (Appian)
-- 💞️ (For nerds) I am interested in minimal amplitude shear-wave processing
+- 💞️ (For nerds) I am interested in minimal amplitude shear-wave processing and time series analysis.
 - 📫 How to reach me alex.9.diaz.uae@gmail.com
 
 <!---
