@@ -4,6 +4,7 @@
 - 💞️ (For nerds) I am interested in minimal amplitude shear-wave processing and time series analysis.
 - 📫 How to reach me alex.9.diaz.uae@gmail.com
 - Checkout my research paper: https://www.yandy-ager.com/index.php/ager/article/view/642
+- https://www.researchgate.net/publication/366137606_Investigation_of_fractured_carbonate_reservoirs_by_applying_shear-wave_splitting_concept
 
 
 <!---
