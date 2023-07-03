@@ -5,6 +5,8 @@
 - 📫 How to reach me alex.9.diaz.uae@gmail.com
 - Checkout my research paper: https://www.yandy-ager.com/index.php/ager/article/view/642
 - https://www.researchgate.net/publication/366137606_Investigation_of_fractured_carbonate_reservoirs_by_applying_shear-wave_splitting_concept
+- https://ui.adsabs.harvard.edu/abs/2022AGUFMNS13A..03B/abstract
+- https://www.sciopen.com/article/10.46690/ager.2023.02.04
 
 
 <!---
