@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Alex a Geophysics graduate from KU (khalifa university)
+- 👋 Hi, I’m Alex a Geophysics graduate from KU (khalifa university)   
 - 👀 I’m interested in data science.
 - 🌱 I’m currently doing consulting for a tech company (Appian)
 - 💞️ (For nerds) I am interested in minimal amplitude shear-wave processing and time series analysis.
 - 📫 How to reach me alex.9.diaz.uae@gmail.com
-![Static Badge](https://img.shields.io/badge/google-scholar-red?logo=google&logoColor=white)
+
 
 - Checkout my research paper: https://www.yandy-ager.com/index.php/ager/article/view/642
 - https://www.researchgate.net/publication/366137606_Investigation_of_fractured_carbonate_reservoirs_by_applying_shear-wave_splitting_concept
@@ -15,6 +15,7 @@
 dizlex/dizlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->   
+![Static Badge](https://img.shields.io/badge/google-scholar-red?logo=google&logoColor=white)
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
