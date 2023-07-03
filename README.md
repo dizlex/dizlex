@@ -3,10 +3,8 @@
 - 🌱 I’m currently doing consulting for a tech company (Appian)
 - 💞️ (For nerds) I am interested in minimal amplitude shear-wave processing and time series analysis.
 - 📫 How to reach me alex.9.diaz.uae@gmail.com
-- [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=6Z2HaRMAAAAJ&hl=en&oi=ao"
+![Static Badge](https://img.shields.io/badge/google-scholar-red?logo=google&logoColor=white)
+
 - Checkout my research paper: https://www.yandy-ager.com/index.php/ager/article/view/642
 - https://www.researchgate.net/publication/366137606_Investigation_of_fractured_carbonate_reservoirs_by_applying_shear-wave_splitting_concept
 - https://ui.adsabs.harvard.edu/abs/2022AGUFMNS13A..03B/abstract
