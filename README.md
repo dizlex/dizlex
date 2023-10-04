@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex a Geophysics graduate from KU (Khalifa University of Science and Technology)   
+- 👋 Hi, I’m Alex a Geophysics graduate from KU (Khalifa University of Science and Technology-)   
 - 👀 I’m interested in data science.
 - 🌱 I’m currently doing consulting for a tech company (Appian)
 - 💞️ (For nerds) I am interested in minimal amplitude shear-wave processing and time series analysis.
